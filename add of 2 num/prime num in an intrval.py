@@ -1,5 +1,5 @@
-start=11
-stop=25
+start=int(input("enter 1st num"))
+stop=int(input("enter 2nt num"))
 for i in range(start,stop+1):
    # if i>1:
 
